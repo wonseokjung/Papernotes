@@ -58,5 +58,8 @@ https://en.wikipedia.org/wiki/Association_(psychology)
 
 현재 Reinforcement Learning에서 Actor-Critic으로 불리는 학습 알고리즘의 아이디어가 제시된 1983년의 논문을 보았다. 
 
+
 현재는 네트워크 두개를 사용해 하나는 action을 다른 하나는 state를  측정하는 방법을 actor - critic이라고 범용적으로 부르는 것 같지만, 
 이 논문에서는 ASE와 ACE를 사용하여 Pole의 balance를 맞추는 환경에서 더 좋은 performace를 보였다 라고 제시하는 것 같다. 
+
+재밌는점은 이 논문은 동물이 학습할때 short term memory와 long-term memory를 통해 학습한다는 것을  출발한것처럼 보인다. 
