@@ -7,7 +7,7 @@ Summarize of AI-related papers
 
 2.읽은 논문을 정리하는 글을 포스팅 한다. 
 
-3. Problem -> Method -> Conclusion 순으로 정리한다. 
+3. Problem -> Method -> Experiement -> Conclusion 순으로 정리한다. 
 
 
 
