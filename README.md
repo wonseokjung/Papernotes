@@ -15,7 +15,7 @@ Summarize of AI-related papers
 
 기록 : 
 
-11/5
+11/5/2018
 
 Reinforcement Learning
 Vision-Based Multi-Task Manipulation for Inexpensive Robots Using End-To-End Learning from Demonstration
