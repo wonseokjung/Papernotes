@@ -13,7 +13,7 @@ Summarize of AI-related papers
 
 
 
-11/5/2018
+1. 11/5/2018
 
 ### 정리 링크 : 
 
@@ -22,5 +22,15 @@ https://github.com/wonseokjung/Papernotes/tree/master/1_Reinforcemen/2
 Reinforcement Learning
 Vision-Based Multi-Task Manipulation for Inexpensive Robots Using End-To-End Learning from Demonstration
 https://arxiv.org/abs/1707.02920
+
+
+2. 11/6/2018 
+
+
+
+
+Exploration bhy random network distillation 
+
+https://arxiv.org/pdf/1810.12894.pdf
 
 
